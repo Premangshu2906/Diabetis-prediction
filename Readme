@@ -1,1 +1,3 @@
+It is just a simple prediction system project made for my learning purposes.
 
+In this project I used a sample dataset containing patient data about diabetis and made a simple model using SVM to predict whether the person is diabetic or not through the parameters like glucose,bloodpressure,skin thickness etc.
